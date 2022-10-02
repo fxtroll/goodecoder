@@ -11,7 +11,27 @@
 [![goodecoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodecoder&theme=tokyonight)](https://github.com/goodecoder/github-readme-stats)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodecoder)](https://github.com/goodecoder/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodecoder&theme=tokyonight)](https://github.com/goodecoder/github-readme-stats)
 
 ### Skills
 
+<a href="#">
+<img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'></img>
+</a>
+<a href="#">
+<img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'></img>
+</a>
+<a href="#">
+<img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'></img>
+</a>
+<a href="#">
+<img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white'></img>
+</a>
+
+## To reach me for callorborations or business 
+<a href="mailto: dwhitegoode@gmail.com">
+<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></img>
+</a>
+<a href="https://www.linkedin.com/in/davidwhitegoode/">
+<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'></img>
+</a>
