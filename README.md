@@ -11,7 +11,7 @@
 [![goodecoder's GitHub stats](https://github-readme-stats-khaki-rho.vercel.app/api?username=goodecoder&show_icons=true&theme=tokyonight)](https://github.com/goodecoder/github-readme-stats)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats-khaki-rho.vercel.app/api/top-langs/?username=goodecoder&theme=tokyonight)](https://github.com/goodecoder/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats-khaki-rho.vercel.app/api/top-langs/?username=goodecoder&theme=tokyonight)](https://github.com/goodecoder/github-readme-stats) -->
 
 ### Skills
 
