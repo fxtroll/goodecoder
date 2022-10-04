@@ -12,7 +12,7 @@
  
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats-khaki-rho.vercel.app/api/top-langs/?username=goodecoder&theme=tokyonight)](https://github.com/goodecoder/github-readme-stats)
+[![Top Langs](https://https://github-readme-stats-goodecoder.vercel.app/api/top-langs/?username=goodecoder&theme=tokyonight)](https://github.com/goodecoder/github-readme-stats)
 
 ### Skills
 
