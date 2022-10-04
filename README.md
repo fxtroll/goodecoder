@@ -8,7 +8,7 @@
 
 ### My Github Stats
 
-[![goodecoder's GitHub stats](https://github-readme-stats-khaki-rho.vercel.app/api?username=goodecoder&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/goodecoder/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodecoder)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats-khaki-rho.vercel.app/api/top-langs/?username=goodecoder&theme=tokyonight)](https://github.com/goodecoder/github-readme-stats)
