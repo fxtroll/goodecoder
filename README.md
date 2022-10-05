@@ -8,7 +8,7 @@
 
 ### My Github Stats
 
-[![David's GitHub stats](https://github-readme-stats-iota-inky.vercel.app/api?username=goodecoder&show_icons=true&theme=tokyonight)](https://github.com/goodecoder/github-readme-stats)
+[![David's GitHub stats](https://github-readme-stats-lnzzlkmga-goodecoder.vercel.app/api?username=goodecoder&show_icons=true&theme=tokyonight)](https://github.com/goodecoder/github-readme-stats)
  
 
 ### Top Languages
