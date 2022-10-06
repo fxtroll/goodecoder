@@ -8,7 +8,7 @@
 
 ### My Github Stats
 
-[![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/goodecoder?theme=tokyonight&Ring=DD2727&Border=13DD57&Text=DD2727)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/goodecoder?theme=tokyonight)](https://git.io/awesome-stats-card)
  
 
 ### Top Languages
