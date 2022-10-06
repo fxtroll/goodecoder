@@ -8,7 +8,7 @@
 
 ### My Github Stats
 
-[![David's GitHub stats](https://github-readme-stats-lnzzlkmga-goodecoder.vercel.app/api/?username=goodecoder&show_icons=true&theme=tokyonight)](https://github.com/goodecoder/github-readme-stats)
+[![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/goodecoder?theme=tokyonight&Ring=DD2727&Border=13DD57&Text=DD2727)](https://git.io/awesome-stats-card)
  
 
 ### Top Languages
